@@ -1,15 +1,15 @@
+
 html,
 	body {
 	  height: 100%;
 	  width: 100%;
 	}
 	
-
-
 #header{
     background-color: aqua;
 }
 #menu{
+
     background-color: rgb(255, 62, 62);
     float: left;
     width: 150px;
@@ -32,3 +32,10 @@ html,
 #footer{
     background-color: darkgray;
 }
+#content{
+    background-color: antiquewhite;
+}
+#footer{
+    background-color: darkgray;
+}
+
